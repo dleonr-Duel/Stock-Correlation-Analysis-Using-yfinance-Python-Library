@@ -87,9 +87,6 @@ The program generates timestamped files for reproducibility:
 - **Correlation Heatmap**  
   Visualizes the strength and structure of return correlations across assets
 
-- **Optional CSV File**  
-  Adjusted close prices for extended analysis
-
 ---
 
 ## Interpretation
