@@ -1,0 +1,17 @@
+# Development and test dependencies
+# Install with: pip install -r requirements-dev.txt
+
+pytest>=7.0
+pytest-cov>=4.0
+tox>=4.0
+
+# Formatting & linting
+black>=24.3
+flake8>=6.0
+isort>=5.12
+
+# Pre-commit hooks
+pre-commit>=3.0
+
+# Static typing
+mypy>=1.0
